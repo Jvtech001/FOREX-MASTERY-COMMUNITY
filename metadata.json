@@ -1,0 +1,6 @@
+{
+  "name": "Forex Class Landing Page",
+  "description": "A minimalist, high-converting landing page for a premium Forex trading group, showing verified AI bot trading results and connecting users to Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
